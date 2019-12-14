@@ -13,3 +13,8 @@
 .slick-slide img {
 	width: auto !important;
 }
+
+.slick-slide iframe {
+	width: inherit;
+	border-width: 0;
+}
